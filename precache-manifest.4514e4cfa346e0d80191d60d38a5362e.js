@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dfe5153a883f1401164d36f499064bab",
+    "revision": "ccc174a5967eaa629d64082763183a9f",
     "url": "/fulldayfrontend/index.html"
   },
   {
-    "revision": "bc5f15a280a93e08c7e8",
+    "revision": "0648c883daf5ebb1c83a",
     "url": "/fulldayfrontend/static/css/main.2c0588a6.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fulldayfrontend/static/js/2.05054e9c.chunk.js"
   },
   {
-    "revision": "bc5f15a280a93e08c7e8",
-    "url": "/fulldayfrontend/static/js/main.da2975df.chunk.js"
+    "revision": "0648c883daf5ebb1c83a",
+    "url": "/fulldayfrontend/static/js/main.879d672a.chunk.js"
   },
   {
     "revision": "15ebbe692165f727205a",
